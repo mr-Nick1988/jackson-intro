@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1000,
+    "name": "Peter",
+    "birthYear": 1988,
+    "lovedBooks": [
+      "Book1",
+      "Book2"
+    ],
+    "mostLovedBook": "Book1"
+  },
+  {
+    "id": 2000,
+    "name": "Mary",
+    "birthYear": 1995,
+    "lovedBooks": [
+      "Book3",
+      "Book4"
+    ],
+    "mostLovedBook": "Book3"
+  }
+]
